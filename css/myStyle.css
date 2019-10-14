@@ -1,0 +1,21 @@
+@charset "utf-8";
+
+.modal-works > span {
+				color: #000;
+			}
+		
+.video-responsive {
+				width: 100%; 
+				height: auto;
+				display: block; 
+				padding: 10px 5px;
+			}
+
+pre {
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    font-weight: 300;
+	line-height: 23px;
+    letter-spacing: 0.2px;
+    color: #797979;
+}
